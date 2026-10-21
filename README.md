@@ -12,11 +12,11 @@
 
 | コンペ | 実績 | 時点 |
 |---|---|---|
-| ARC-AGI-3 | 公開リーダーボード **全体7位**（5.68、当時のチーム名 AFF AI CLUB） | 2026-09-09 |
+| ARC-AGI-3 | 公開リーダーボード **全体最高7位**（5.68、当時のチーム名 AFF AI CLUB） | 2026-09-09 |
 | ARC-AGI-3 | 公開リーダーボード **14位**（38.98） | 2026-10-22 |
 | ARC-AGI-3 | 公開ノートブックの中でパブリックスコア **1位**（[Duck plus ours](https://www.kaggle.com/code/shiiin9/duck-plus-ours)） | 公開当時 |
 | ARC-AGI-3 | 公開ノートブックの中でパブリックスコア **2位**（[31.54 in a Single Sub](https://www.kaggle.com/code/shiiin9/affectify-arc-31-54-in-a-single-sub)） | 公開当時 |
-| ARC-AGI-2 | 公開リーダーボード **全体17位**（52.08） | 2026-10-15 |
+| ARC-AGI-2 | 公開リーダーボード **全体最高17位**（52.08） | 2026-10-15 |
 
 ### リーダーボード
 
@@ -53,11 +53,11 @@ We are a student team from Osaka Metropolitan University, competing in **ARC-AGI
 
 | Competition | Result | Date |
 |---|---|---|
-| ARC-AGI-3 | **7th overall** on the public leaderboard (5.68, as team "AFF AI CLUB") | 2026-09-09 |
+| ARC-AGI-3 | **best rank: 7th overall** on the public leaderboard (5.68, as team "AFF AI CLUB") | 2026-09-09 |
 | ARC-AGI-3 | **14th** on the public leaderboard (38.98) | 2026-10-22 |
 | ARC-AGI-3 | **#1 public notebook** by public score ([Duck plus ours](https://www.kaggle.com/code/shiiin9/duck-plus-ours)) | at the time of publication |
 | ARC-AGI-3 | **#2 public notebook** by public score ([31.54 in a Single Sub](https://www.kaggle.com/code/shiiin9/affectify-arc-31-54-in-a-single-sub)) | at the time of publication |
-| ARC-AGI-2 | **17th overall** on the public leaderboard (52.08) | 2026-10-15 |
+| ARC-AGI-2 | **best rank: 17th overall** on the public leaderboard (52.08) | 2026-10-15 |
 
 ### Leaderboard
 
