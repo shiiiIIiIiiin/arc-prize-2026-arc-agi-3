@@ -16,7 +16,7 @@
 | ARC-AGI-3 | 公開リーダーボード **14位**（38.98） | 2026-10-22 |
 | ARC-AGI-3 | 公開ノートブックの中でパブリックスコア **1位**（[Duck plus ours](https://www.kaggle.com/code/shiiin9/duck-plus-ours)） | 公開当時 |
 | ARC-AGI-3 | 公開ノートブックの中でパブリックスコア **2位**（[31.54 in a Single Sub](https://www.kaggle.com/code/shiiin9/affectify-arc-31-54-in-a-single-sub)） | 公開当時 |
-| ARC-AGI-2 | 公開リーダーボード **全体17位** | TODO |
+| ARC-AGI-2 | 公開リーダーボード **全体17位**（52.08） | 2026-10-15 |
 
 ### リーダーボード
 
@@ -28,9 +28,9 @@
 
 ![ARC-AGI-3 の公開リーダーボード。2026-10-22 に大阪公立大学生AIチームが14位、38.98点](images/arc-agi-3_lb_2026-10-22_rank14.png)
 
-**ARC-AGI-2 — 17位**
+**ARC-AGI-2 — 17位（2026-10-15）**
 
-TODO: スクリーンショット
+![ARC-AGI-2 の公開リーダーボード。2026-10-15 に17位、52.08点](images/arc-agi-2_lb_2026-10-15_rank17.png)
 
 ### 公開ノートブック
 
@@ -57,7 +57,7 @@ We are a student team from Osaka Metropolitan University, competing in **ARC-AGI
 | ARC-AGI-3 | **14th** on the public leaderboard (38.98) | 2026-10-22 |
 | ARC-AGI-3 | **#1 public notebook** by public score ([Duck plus ours](https://www.kaggle.com/code/shiiin9/duck-plus-ours)) | at the time of publication |
 | ARC-AGI-3 | **#2 public notebook** by public score ([31.54 in a Single Sub](https://www.kaggle.com/code/shiiin9/affectify-arc-31-54-in-a-single-sub)) | at the time of publication |
-| ARC-AGI-2 | **17th overall** on the public leaderboard | TODO |
+| ARC-AGI-2 | **17th overall** on the public leaderboard (52.08) | 2026-10-15 |
 
 ### Leaderboard
 
@@ -69,9 +69,9 @@ We are a student team from Osaka Metropolitan University, competing in **ARC-AGI
 
 ![ARC-AGI-3 public leaderboard on 2026-10-22: 14th with 38.98](images/arc-agi-3_lb_2026-10-22_rank14.png)
 
-**ARC-AGI-2 — 17th**
+**ARC-AGI-2 — 17th (2026-10-15)**
 
-TODO: screenshot
+![ARC-AGI-2 public leaderboard on 2026-10-15: 17th with 52.08](images/arc-agi-2_lb_2026-10-15_rank17.png)
 
 ### Public notebooks
 
